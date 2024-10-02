@@ -8,6 +8,6 @@ langchain-pinecone
 sentence-transformers
 langchain-huggingface
 langchain-text-splitters
-
+ctransformers
 
 -e .
