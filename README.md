@@ -26,6 +26,9 @@ This project implements an end-to-end **Retrieval-Augmented Generation (RAG)** a
    ```bash
    pip install -r requirements.txt
    ```
+   ```bash
+   pip install -r requirements.txt -i https://pypi.org/simple
+   ```
 3. Set up your environment variables (e.g., PINECONE_API_KEY, PINECONE_ENVIRONMENT):
    ```bash
    cp .env.example .env

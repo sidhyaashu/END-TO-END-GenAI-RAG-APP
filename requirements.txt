@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+pinecone-client
+langchain-core
+langchain-community
+PyMuPDF
+langchain-pinecone
+sentence-transformers
+langchain-huggingface
+langchain-text-splitters
+
+
+-e .
